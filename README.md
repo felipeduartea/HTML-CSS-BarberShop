@@ -1,2 +1,2 @@
 # barbearia
-Projeto de barbearia no curso ALURA
+Projeto de barbearia no curso ALURA 
